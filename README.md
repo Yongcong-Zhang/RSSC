@@ -23,3 +23,14 @@ If you find this work useful, please cite:
       year={2026}
     }
 ```
+
+## Usage
+
+1. **Environment Setup**  
+   Clone the repository and install the dependencies listed in `requirements.txt`.
+
+2. **Run Self-Calibration**  
+   Open and run the `main.ipynb` Jupyter notebook. It supports all five self-calibration methods proposed in the paper (RSSC-TE, RSSC-CEQ, RSSC-CEH, RSSC-DPQ, RSSC-DPH). You can select and execute the desired method within the notebook.
+
+3. **Using Your Own Data**  
+   To calibrate on custom data, organize your images and COLMAP reconstruction outputs following the same directory structure as the provided `datasets/` folder. Then, update the corresponding data paths in `main.ipynb` to point to your dataset.
