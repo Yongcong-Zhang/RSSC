@@ -2,13 +2,14 @@
 
 Code for **[Rolling Shutter Camera Self-Calibration](https://arxiv.org/pdf/2608.01509)** (ECCV 2026 Oral)
 
+![RSL-BA Pipeline](images/pipline.png)
+
 ## 📦 Project Page
 https://yongcong-zhang.github.io/Rolling-Shutter-Camera-Self-Calibration/
 
 ## 📄 Paper
 https://arxiv.org/pdf/2608.01509
 
-![RSL-BA Pipeline](images/pipline.png)
 
 ## Citation
 
