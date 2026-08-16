@@ -1,6 +1,7 @@
 # Rolling Shutter Camera Self-Calibration
 
 Code for **[Rolling Shutter Camera Self-Calibration](https://arxiv.org/pdf/2608.01509)** (ECCV 2026 Oral)
+
 **Contacts:** yongcongzhang0326@gmail.com
 
 ![RSL-BA Pipeline](images/pipline.png)
